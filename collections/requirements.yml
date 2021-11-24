@@ -1,3 +1,2 @@
 collections:
-    - name: cisco.nxos
-    - name: google.cloud
+    - name: ansible.tower
